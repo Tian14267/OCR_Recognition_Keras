@@ -1,8 +1,8 @@
 # OCR_Recognition_Keras
 ## 说明
 本代码是基于CRNN的OCR识别写的代码。主要基于keras，代码主要分为两种路线：<br>
-一：舍弃RNN结构，单独使用CNN结构。其中CNN使用VGG网络结果完成；<br>
-二：采用CNN + RNN + Attention 的结构模式。将attention带入识别中。
+一：舍弃RNN结构，单独使用CNN结构。其中CNN使用VGG网络结构完成；<br>
+二：采用CNN + RNN + Attention 的结构模式。将Attention带入识别中。
 
 ## Data
 本文这里使用的数据为360W的数据集。网上都是可以下载到的。具体数据样式如下：
