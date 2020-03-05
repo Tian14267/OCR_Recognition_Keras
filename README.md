@@ -16,4 +16,5 @@ PS：注意修改相关配置<br>
 
 ![image](https://github.com/Tian14267/OCR_Recognition_Keras/tree/master/images/train.png)
 
-上图是基于CNN_Only训练的，还没训练完。等完全训练完之后，其识别率能达到98%以上。
+上图是基于CNN_Only训练的，还没训练完。等完全训练完之后，其识别率能达到98%以上。<br>
+注：经过测试发现，添加attention机制后的识别系统，其识别效果要差很多。大概也就90%的正确率
