@@ -15,4 +15,5 @@ PS：注意修改相关配置<br>
 训练细节如下：<br>
 
 ![image](https://github.com/Tian14267/OCR_Recognition_Keras/tree/master/images/train.png)
+
 上图是基于CNN_Only训练的，还没训练完。等完全训练完之后，其识别率能达到98%以上。
